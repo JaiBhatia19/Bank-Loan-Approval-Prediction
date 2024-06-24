@@ -1,5 +1,7 @@
 # Loan Approval Prediction
 
+<img width="882" alt="Screenshot 2024-06-24 at 4 41 26 PM" src="https://github.com/JaiBhatia19/London-Bike-Rides-Dashboard/assets/143343337/77fb22fb-a327-4b0e-892e-6e8bc5b5e23a">
+
 ## Project Overview
 Predicting loan approval outcomes based on applicant data using machine learning models.
 
