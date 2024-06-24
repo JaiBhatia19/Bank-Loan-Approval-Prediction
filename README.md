@@ -12,7 +12,7 @@ Predicting loan approval outcomes based on applicant data using machine learning
 
 ## Data
 The dataset used for this project can be found here:
-- [loan_data.csv](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset?select=train_u6lujuX_CVtuZ9i.csv)
+- [train_data.csv](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset?select=train_u6lujuX_CVtuZ9i.csv)
 
 ## Notebook
 The data preprocessing and modeling are performed in the following Jupyter Notebook:
